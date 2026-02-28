@@ -190,7 +190,7 @@ AI / LLMs       ██████████░░░░░░░░░░  50
 <!-- This one needs a GitHub Action to generate — instructions below -->
 <!-- Once set up, it animates your contribution graph as a snake eating squares -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/wirlytornado246/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/wirlytornado246/wirlytornado246/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <!-- 
