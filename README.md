@@ -17,7 +17,7 @@
   <a href="https://profile.hackthebox.com/profile/019c8a96-5326-7360-abe0-2c46cdd995f2">
     <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
-  <a href="https://github.com/wirlytornado246">
+  <a href="https://github.com/mariustudor07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="www.linkedin.com/in/mariustudor07">
