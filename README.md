@@ -20,7 +20,7 @@
   <a href="https://github.com/mariustudor07">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/mariustudor07">
+  <a href="https://www.linkedin.com/in/mariustudor07">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -129,16 +129,15 @@ me = SecurityResearcher()
 ## 📊 GitHub Stats
 
 <!-- github-readme-stats pulls your REAL live GitHub data -->
-<!-- Replace YOUR_USERNAME in all three URLs below -->
 
 <!-- Stats card + Most used languages side by side -->
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=wirlytornado246&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" 
+    src="https://github-readme-stats.vercel.app/api?username=mariustudor07&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" 
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirlytornado246&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41&hide_border=false&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariustudor07&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41&hide_border=false&langs_count=6" 
     height="180"
   />
 </p>
@@ -146,7 +145,7 @@ me = SecurityResearcher()
 <!-- Streak stats — shows your current and longest commit streaks -->
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=wirlytornado246&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=00ff41" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mariustudor07&theme=dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=00ff41" 
     width="60%"
   />
 </p>
@@ -176,9 +175,8 @@ AI / LLMs       ██████████░░░░░░░░░░  50
 ## 📈 Activity Graph
 
 <!-- Activity graph shows your contribution heatmap -->
-<!-- Replace YOUR_USERNAME -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wirlytornado246&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=false&border_color=00ff41&radius=6" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariustudor07&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=false&border_color=00ff41&radius=6" width="95%"/>
 </p>
 
 <br/>
@@ -190,7 +188,7 @@ AI / LLMs       ██████████░░░░░░░░░░  50
 <!-- This one needs a GitHub Action to generate — instructions below -->
 <!-- Once set up, it animates your contribution graph as a snake eating squares -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wirlytornado246/wirlytornado246/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/mariustudor07/mariustudor07/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <!-- 
@@ -264,5 +262,5 @@ AI / LLMs       ██████████░░░░░░░░░░  50
 
 <!-- VISITOR COUNTER — shows how many people have viewed your profile -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wirlytornado246&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=mariustudor07&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
